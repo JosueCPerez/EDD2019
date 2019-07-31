@@ -67,7 +67,7 @@ public class bolsa {
                      contador++;
                 }
                 temp = temp.siguiente;
-            }while(temp.siguiente != bolsa_buscar.primero);
+            }while(temp != bolsa_buscar.primero);
         }
         
         return contador;
@@ -80,7 +80,7 @@ public class bolsa {
             do{
                 contador++;
                 temp = temp.siguiente;
-            }while(temp.siguiente != bolsa_buscar.primero);
+            }while(temp != bolsa_buscar.primero);
         }
         return contador;
     }
