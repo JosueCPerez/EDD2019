@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1566361024 source:c:\users\josue\desktop\tarea3\main.cpp
+	<iostream>
+	<stdlib.h>
+	"lista_simple.h"
+
+1566358381 source:c:\users\josue\desktop\tarea3\src\nodo_actividad.cpp
+	"nodo_actividad.h"
+
+1566358339 c:\users\josue\desktop\tarea3\include\nodo_actividad.h
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1566361608 source:c:\users\josue\desktop\tarea3\src\lista_simple.cpp
+	"lista_simple.h"
+
+1566358459 c:\users\josue\desktop\tarea3\include\lista_simple.h
+	"nodo_dia.h"
+
+1566333368 c:\users\josue\desktop\tarea3\include\nodo_dia.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	"nodo_actividad.h"
+
+1566361511 source:c:\users\josue\desktop\tarea3\src\nodo_dia.cpp
+	"nodo_dia.h"
+	<iostream>
+	<string>
+
